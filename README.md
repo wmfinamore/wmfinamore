@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Wmfinamore's GitHub stats](https://github-readme-stats.vercel.app/api?username=wmfinamore)](https://github.com/wmfinamore/github-readme-stats)
+[![Wmfinamore's GitHub stats](https://github-readme-stats.vercel.app/api?username=wmfinamore&theme=calm)](https://github.com/wmfinamore/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wmfinamore&theme=calm&exclude_repo=travelRequest,Camunda_Exemplos,wmfinamore&hide=javascript,css,scss&layout=compact)](https://github.com/wmfinamore/github-readme-stats)
+
+Credit by above cards: Thanks [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats#github-stats-card)!!
