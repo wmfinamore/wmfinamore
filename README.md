@@ -81,7 +81,7 @@ Plataforma de análise de dados municipais com foco em decisão baseada em evid�
 
 ---
 
-### 🤖 Plano Municipal de IA 2025–2028
+### 🤖 Plano Municipal de IA
 Elaboração do primeiro plano estratégico de Inteligência Artificial da Prefeitura de Sorocaba.
 
 ---
